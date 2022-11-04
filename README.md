@@ -27,7 +27,7 @@ P.S. Here you will find my story of the exam: [Russian version](https://www.ins
 ==Recommended==
 
 - [x] [Refresh you knowledge about Docker (6-10h)](https://container.training/intro-selfpaced.yml.html#1) presentation about docker (~800 slides)
-- [ ] [Community presentation about k8s](https://container.training/kube-selfpaced.yml.html#1)
+- [x] [Community presentation about k8s](https://container.training/kube-selfpaced.yml.html#1)
 - [ ] Udemy course has been completed (theory part)
 - [ ] CloudGuru course has been completed (theory part)
 - [ ] Practical part in Udemy course has been done 2-3 times
