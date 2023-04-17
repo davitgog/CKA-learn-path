@@ -20,8 +20,6 @@ The part consists of the following theoretical materials:
 Some of the materials are free, while some are not.
 I highly recommend you find some friends who also are going to pass the exam and prepare for it together.
 
-P.S. Here you will find my story of the exam: [Russian version](https://www.instagram.com/p/B3jaJ6wHs7t/?utm_source=ig_web_copy_link) 
-
 ### Success criteria and links to materials
 
 ==Recommended==
